@@ -4,3 +4,5 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+rig-core = "0.29.0"
+rig-vertexai = "0.2.4"
