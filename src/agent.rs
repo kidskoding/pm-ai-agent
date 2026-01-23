@@ -27,4 +27,3 @@ pub async fn create_pm_agent() -> anyhow::Result<Agent<impl CompletionModel>> {
 
     Ok(agent)
 }
-
